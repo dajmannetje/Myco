@@ -1,6 +1,6 @@
 /*
  Made by Amjad Azimane for the MYCO project in June 2022.
- 
+ Made for an esp32 c3 mini
 */
 
 #include <Arduino.h>
