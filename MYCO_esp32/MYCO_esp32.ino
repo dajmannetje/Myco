@@ -1,12 +1,6 @@
 /*
-  Rui Santos
-  Complete project details at our blog.
-    - ESP32: https://RandomNerdTutorials.com/esp32-firebase-realtime-database/
-    - ESP8266: https://RandomNerdTutorials.com/esp8266-nodemcu-firebase-realtime-database/
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-  Based in the RTDB Basic Example by Firebase-ESP-Client library by mobizt
-  https://github.com/mobizt/Firebase-ESP-Client/blob/main/examples/RTDB/Basic/Basic.ino
+ Made by Amjad Azimane for the MYCO project in June 2022.
+ 
 */
 
 #include <Arduino.h>
@@ -25,7 +19,7 @@
 #define WIFI_PASSWORD "myco2022"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyABPBZR0tqRfG-S53PhEWo4zRGd2VplK-E"
+#define API_KEY "" //because of security reasons I can not share the API key. When I posted this on github it told me that this was a security breach. 
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://esp3-c949c-default-rtdb.europe-west1.firebasedatabase.app/"
