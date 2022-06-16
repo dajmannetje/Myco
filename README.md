@@ -8,6 +8,14 @@ The apk file of the app is also included in the repository, the app works for an
 Arduino code of the myco is also included, again, not everything is commented but most of it should be clear. Again, the code has been for prototype purposes and demonstration purposes. It is not ready for publishment. 
 A link to the json file of the database is also provided.
 
+Myco.zip is the apk file
+Myco_esp32 is the arduino code
+Myco package is the package file for the .net5 C# code in unity
+
 Read the report for more information about the project.
 If any questions arise, you can contact: 
 a.azimane@student.tue.nl
+
+A screenshot of how the database looks like:
+![Screenshot 2022-06-16 174527](https://user-images.githubusercontent.com/62105727/174111571-a5d2a5a2-fe0a-4d2c-958a-0d4543e040a9.png)
+
