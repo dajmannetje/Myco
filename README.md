@@ -15,3 +15,7 @@ Myco package is the package file for the .net5 C# code in unity
 Read the report for more information about the project.
 If any questions arise, you can contact: 
 a.azimane@student.tue.nl
+
+
+![Screenshot 2022-06-16 174527](https://user-images.githubusercontent.com/62105727/174111571-a5d2a5a2-fe0a-4d2c-958a-0d4543e040a9.png)
+
